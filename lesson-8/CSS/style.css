@@ -1,0 +1,13 @@
+.col-lg-2 {
+  display: inline-block;
+}
+h1 {
+  margin-top: 140px;
+  text-align: center;
+  font-family: Aria;
+  font-size: 36pt;
+  margin-bottom: 110px;
+}
+#name {
+  margin-top: 35px;
+}

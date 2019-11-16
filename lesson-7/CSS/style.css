@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Tahoma Bold, sans-serif;
+  color: #333333;
+}
+.main-header {
+  text-align: center;
+  padding-top: 120px;
+  line-height: 1.6;
+}
+
+.main-header span {
+  font-weight: 100;
+  display: block;
+  font-size: 24px;
+}
+
+.section h1 {
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.main {
+  padding: 30px 10%;
+}
+.video,
+.form {
+  display: inline-block;
+  vertical-align: top;
+}
+.video {
+  margin-left: 135px;
+}
+.form {
+  border: #2727d9 solid 5px;
+  padding: 15px;
+  margin-left: 30px;
+  height: 306px;
+}
+
+input {
+  margin: 10px 10px 0px 10px;
+  display: block;
+  width: 250px;
+  height: 40px;
+  padding: 15px;
+  border: 1px solid #333333;
+}
+.form p {
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 45px;
+}
+.btn {
+  width: 250px;
+  height: 50px;
+  margin: 5px 10px 25px 10px;
+  border: none;
+  color: #ffffff;
+  background-color: #3c3cdd;
+}
+
+.header-feature {
+  margin-top: 150px;
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
+.col-1,
+.col-2,
+.col-3,
+.col-4 {
+  display: inline-block;
+  margin-top: 80px;
+}
+.feature {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.col-2,
+.col-2,
+.col-3,
+.col-4 {
+  margin-left: 105px;
+}
+.feature p {
+  margin-top: 10px;
+}
+.button {
+  text-align: center;
+}
+.photo-client-1 {
+  text-align: center;
+}
+.photo-client-1 div {
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.header-client {
+  margin-top: 100px;
+  margin-bottom: 72px;
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
