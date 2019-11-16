@@ -15,3 +15,5 @@
 
 [Урок 9](https://kolya-tkachuk23.github.io/lesson-9/) - Урок №9. Верстка при помощи Bootstrap 3
 
+[Урок 13](https://kolya-tkachuk23.github.io/lesson-13/) - Урок №13. Адаптивная верстка
+
