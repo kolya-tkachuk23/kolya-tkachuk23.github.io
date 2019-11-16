@@ -1,0 +1,64 @@
+.form {
+  margin-left: 207px;
+  width: 255px;
+  height: 295px;
+  display: inline-block;
+  background-color: #fbfdfd;
+  border: 1px solid #cfdede;
+}
+
+.create-an-account {
+  width: 117px;
+  height: 21px;
+  background-color: #01b3b3;
+  margin-left: 25px;
+  margin-top: -15px;
+}
+
+.p-create-an-account {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 9px;
+  text-align: center;
+  padding-top: 6px;
+  font-family: Aria, sans-serif;
+}
+
+form {
+  margin-top: 19px;
+  padding-left: 24px;
+}
+
+.p-form {
+  margin-bottom: 9px;
+  font-size: 12px;
+  font-family: Aria, sans-serif;
+  font-weight: 550;
+
+}
+
+input {
+  height: 22px;
+  display: block;
+  width: 207px;
+  border: 1px solid #cfdede;
+
+}
+
+.input-email {
+  padding-left: 10px;
+  ;
+}
+
+.btn {
+  color: #ffffff;
+  border-radius: 4px;
+  height: 36px;
+  width: 208px;
+  border: none;
+  background-color: #01bcbc;
+  margin-top: 27px;
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 550;
+}
