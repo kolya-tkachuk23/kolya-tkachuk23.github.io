@@ -2,6 +2,8 @@
 
 # kolya-tkachuk23.github.io
 Мои домашнии задание
+Задание 1-7 и 10-11 , не нуждаются загрузки на github
+
 
 [Урок 7](https://kolya-tkachuk23.github.io/lesson-7/) - Урок №7. Верстка первого макета
 
