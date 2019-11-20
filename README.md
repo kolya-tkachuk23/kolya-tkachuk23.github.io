@@ -17,5 +17,5 @@
 
 [Урок 13](https://kolya-tkachuk23.github.io/lesson-13/) - Урок №13. Адаптивная верстка
 
-[Урок 14](https://kolya-tkachuk23.github.io/lesson-14/ , "Шапка сайта") - Модуль 5. Практика. Часть 1.
+[Урок 14](https://kolya-tkachuk23.github.io/lesson-14/  "Шапка сайта") - Модуль 5. Практика. Часть 1.
 
