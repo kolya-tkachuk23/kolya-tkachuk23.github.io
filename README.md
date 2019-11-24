@@ -25,4 +25,5 @@
 
 [Урок 17](kolya-tkachuk23.github.io/lesson-17/ "Псевдоклассы и псевдоэлементы") - Урок №17.Псевдоклассы и псевдоэлементы
 
+[Урок 17](kolya-tkachuk23.github.io/Module5.Lesson#15/ ) - Module 5.Lesson 15
 
